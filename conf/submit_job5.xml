@@ -25,3 +25,4 @@
         </task> 
     </tasks>
 </job>
+    <job_type>batch</job_type>
